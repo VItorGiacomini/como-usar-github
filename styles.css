@@ -6,3 +6,11 @@ p{
     text-align: center;
     padding: 45px;
 }
+.img-fluid{
+    width: 900px;
+    margin-left: 212px;
+    margin-right: auto;
+}
+.texto-menor{
+    font-size: 10px;
+}
